@@ -117,17 +117,6 @@
         "hungry"
       ],
       "id": "11"
-    },
-    {
-      "name": "Kevin",
-      "species": "Kola",
-      "diet": "carnivore",
-      "personalityTraits": [
-        "hungry",
-        "zany",
-        "goofy"
-      ],
-      "id": "12"
     }
   ]
 }
